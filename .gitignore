@@ -207,6 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 logs/
-artifacts/
-notebook/
 venv/
